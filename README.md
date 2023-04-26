@@ -1,5 +1,4 @@
-# HelloMicroverseProject
-<a name="Hello Microverse Project"></a>
+<a name="readme-top"></a>
 
 <!--
 HOW TO USE:
@@ -28,15 +27,19 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-   <h3><b>Hello Microverse Project</b></h3>
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Hello Microverse Project</b></h3>
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#Intro-project)
-  - [🛠 Built With](#html css)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
@@ -46,8 +49,8 @@ After you're finished please remove all the comments and instructions!
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#Muhammad Amran Khan)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -57,33 +60,61 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Project] <a name="Hello Microverse"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
 
-
-**[Hello Microverse Project]** is a basic project to get new Micronauts onboard with Git, GitHub and Linters
+**[Hello Microverse Project]** is a basic stepping stone to get new Micronauts onboard with Git, GitHub and Linters.
 
 ## 🛠 Built With <a name="built-with"></a>
 
+1 HTML
+2 CSS
+
 ### Tech Stack <a name="tech-stack"></a>
 
-> #HTML, #CSS
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.com/">HTML</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
+    
+  </ul>
+</details>
+
+
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- Added index.html file
+- Added styles.css file
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> A link to my deployed project can be obtained with VS Code while running the code with Live Server.
+- Coming soon
 
-- <!-- GETTING STARTED -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> A new developer could make use of my project according to the needs.
-
-To get a local copy up and running, follow these steps. Install Browser, VS Code, Git and GitHub
+- Install VS Code and run it on Live Server
 
 ### Prerequisites
 
-In order to run this project you need: Browser, VS Code, Git and GitHub
+In order to run this project you need:
+
+1. Browser.
+2. VS Code editor
+3. Git and GitHub
 
 <!--
 Example command:
@@ -95,37 +126,63 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder: And then change it accordingly
+Clone this repository to your desired folder by running this command.
 
-<!--
-Example commands:
+
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  git clone git@github.com:Mike111222/Hello-Microverse-Project.git
 
-## 👥 Authors <a name="Muhammad Amran Khan"></a>
+### Install
 
-> 
+Install this project with:
 
-👤 **Author1**
+Run this command:
 
-- GitHub: [@githubhandle](https://github.com/Mike111222/Hello_Microverse_Project)
-- Twitter: [@twitterhandle](https://twitter.com/engr_imrankhan1)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Mike111222 )
+```sh
+  cd my-project
+  npm install
+
+
+### Usage
+
+Open index.html file in VS Code, run via live server extension.
+
+### Run tests
+
+Coming soon.
+
+### Deployment
+
+You can deploy this project using:
+
+Coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+
+
+👤 **Muhammad Amran Khan**
+
+- GitHub: [@githubhandle](https://github.com/Mike111222)
+- Twitter: [@twitterhandle](https://twitter.com/engr_imrankhan1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Mike111222)
+
+
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->This features I will add to the project.
 
-- [ ] **[css_styles]**
-
+- [ ] Add nav bar
+- [ ] Add some paragraph
+- [ ] Add more styles
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +192,7 @@ Example commands:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/), please.
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +202,7 @@ Feel free to check the [issues page](../../issues/), please.
 
 
 
-If you like this project, please reach out to me so that I can make it more useful.
+If you like this project, just give it a star ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,23 +211,10 @@ If you like this project, please reach out to me so that I can make it more usef
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-
-I would like to thank my dear friend Salman Ahmad Khan.
+I would like to thank my dear friend Salman Ahmad Khan, my code reviewers and Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,6 +224,5 @@ I would like to thank my dear friend Salman Ahmad Khan.
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
