@@ -14,7 +14,7 @@ Install
 Usage
 Run tests
 Deployment
-[👥 Authors](#Muhammad Amran Khan)
+[👥 Authors](#Salman Ahmad Khan)
 🔭 Future Features
 🤝 Contributing
 ⭐️ Show your support
@@ -24,40 +24,40 @@ Deployment
 📖 [Hello Microverse Project]
 Describe your project in 1 or 2 sentences.
 
-[Hello Microverse Project] is a basic project to make new micronauts familiarized with Git, GitHub and Linters.
+[Hello Microverse Project] is a...
 
 🛠 Built With
 Tech Stack
-#HTML and CSS
+Describe the tech stack and include only the relevant sections that apply to your project.
 
 🚀 Live Demo
-A link to my deployed project can be obtained by using Live Server on VS Code.
+Add a link to your deployed project.
 
 💻 Getting Started
-A new developer could make use of my project by simply following the instructions and getting it to meet the requirements.
+Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 Prerequisites
-In order to run this project you need: VS Code, Git and GitHub
+In order to run this project you need:
 
 Setup
-Clone this repository to your desired folder: And then change accordingly
+Clone this repository to your desired folder:
 
 👥 Authors
-
+Mention all of the collaborators of this project.
 
 👤 Author1
-#Muhammad Amran Khan
-GitHub: @Mike111222
+
+GitHub: @githubhandle
 Twitter: @twitterhandle
 LinkedIn: LinkedIn
 (back to top)
 
 🔭 Future Features
-These features I will add to the project.
+Describe 1 - 3 features you will add to the project.
 
- [css_styles]
+ [new_feature_1]
  [new_feature_2]
  [new_feature_3]
 (back to top)
@@ -65,21 +65,21 @@ These features I will add to the project.
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page, please.
+Feel free to check the issues page.
 
 (back to top)
 
 ⭐️ Show your support
 Write a message to encourage readers to support your project
 
-If you like this project please reach out to me so that I can make it more useful
+If you like this project...
 
 (back to top)
 
 🙏 Acknowledgments
+Give credit to everyone who inspired your codebase.
 
-
-I would like to thank my dear friend Salman Ahmad Khan.
+I would like to thank...
 
 (back to top)
 
