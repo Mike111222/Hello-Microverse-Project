@@ -1,6 +1,9 @@
-Table of Contents
+HelloMicroverseProject
+
+Hello Microverse Project
+📗 Table of Contents
 📖 About the Project
-🛠 Built With
+[🛠 Built With](#html css)
 Tech Stack
 Key Features
 🚀 Live Demo
@@ -11,78 +14,52 @@ Install
 Usage
 Run tests
 Deployment
-👥 Authors
+[👥 Authors](#Muhammad Amran Khan)
 🔭 Future Features
 🤝 Contributing
 ⭐️ Show your support
 🙏 Acknowledgements
 ❓ FAQ (OPTIONAL)
 📝 License
-
-
 📖 [Hello Microverse Project]
+Describe your project in 1 or 2 sentences.
 
-[Hello Microverse Project] is a basic project to get new micronauts familiarized with the platforms like Git, Github and Linters.
+[Hello Microverse Project] is a basic project to make new micronauts familiarized with Git, GitHub and Linters.
 
 🛠 Built With
 Tech Stack
-This projects is developed using HTML, CSS and linters to check the errors.
-
-Client
-Server
-Database
-Key Features
-
-
-[Github_knowledge]
-[Git_knowledge]
-[linters_functionality]
-(back to top)
+#HTML and CSS
 
 🚀 Live Demo
-
-Live Demo Link can be obtained by running the code through Live Server on VS Code
-(back to top)
+A link to my deployed project can be obtained by using Live Server on VS Code.
 
 💻 Getting Started
-A new developer could make use of my project by simply copying the repo and implementing the required changes accordingly.
+A new developer could make use of my project by simply following the instructions and getting it to meet the requirements.
 
 To get a local copy up and running, follow these steps.
 
 Prerequisites
-In order to run this project you need: Browser, VS Code, Git and GitHub
+In order to run this project you need: VS Code, Git and GitHub
 
 Setup
-Clone this repository to your desired folder as per your needs.
-
-Install
-Install this project with VS Code, Git and GitHub
-
-Usage
-To run the project, execute the following command: Open VS Code and Run Via Live Server by installing Live Server first in VS Code.
-
-Run tests
-To run tests, run the following command: Use VS Code terminal for various tests.
-
-Deployment
-You can deploy this project using: VS Code, Git and GitHub
-
-(back to top)
+Clone this repository to your desired folder: And then change accordingly
 
 👥 Authors
 
 
-👤 Muhammad Amran Khan
-
+👤 Author1
+#Muhammad Amran Khan
 GitHub: @Mike111222
 Twitter: @twitterhandle
 LinkedIn: LinkedIn
+(back to top)
 
 🔭 Future Features
+These features I will add to the project.
 
-
- [CSS_styles]
-
+ [css_styles]
+ [new_feature_2]
+ [new_feature_3]
 (back to top)
 
 🤝 Contributing
@@ -93,20 +70,21 @@ Feel free to check the issues page, please.
 (back to top)
 
 ⭐️ Show your support
+Write a message to encourage readers to support your project
 
-If you like this project, please reach out to me so that I can make it more useful for you. Thanks
+If you like this project please reach out to me so that I can make it more useful
 
 (back to top)
 
 🙏 Acknowledgments
 
 
-I would like to thank my dear friend Salman Ahmad Khan for his help.
+I would like to thank my dear friend Salman Ahmad Khan.
 
 (back to top)
 
 ❓ FAQ (OPTIONAL)
-
+Add at least 2 questions new developers would ask when they decide to use your project.
 
 [Question_1]
 
@@ -118,3 +96,8 @@ I would like to thank my dear friend Salman Ahmad Khan for his help.
 
 📝 License
 This project is MIT licensed.
+
+NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+
+(back to top)
+
