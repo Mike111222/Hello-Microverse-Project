@@ -133,17 +133,13 @@ Clone this repository to your desired folder by running this command.
 ```sh
   cd my-folder
   git clone git@github.com:Mike111222/Hello-Microverse-Project.git
+  ```
 
 ### Install
 
 Install this project with:
 
 Run this command:
-
-```sh
-  cd my-project
-  npm install
-
 
 ### Usage
 
