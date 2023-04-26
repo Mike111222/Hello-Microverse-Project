@@ -67,12 +67,11 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with"></a>
 
-1 HTML
-2 CSS
+1- HTML
+2- CSS
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -137,9 +136,7 @@ Clone this repository to your desired folder by running this command.
 
 ### Install
 
-Install this project with:
-
-Run this command:
+Coming soon
 
 ### Usage
 
