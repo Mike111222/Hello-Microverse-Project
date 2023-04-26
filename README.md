@@ -47,7 +47,7 @@ After you're finished please remove all the comments and instructions!
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#Salman Ahmad Khan)
+- [👥 Authors](#Muhammad Amran Khan)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -59,31 +59,31 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse Project] <a name="Hello Microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[Hello Microverse Project]** is a...
+
+**[Hello Microverse Project]** is a basic project to get new Micronauts onboard with Git, GitHub and Linters
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> #HTML, #CSS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> A link to my deployed project can be obtained with VS Code while running the code with Live Server.
 
 - <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> A new developer could make use of my project according to the needs.
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps. Install Browser, VS Code, Git and GitHub
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: Browser, VS Code, Git and GitHub
 
 <!--
 Example command:
@@ -95,7 +95,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder: And then change it accordingly
 
 <!--
 Example commands:
@@ -106,15 +106,15 @@ Example commands:
 ```
 --->
 
-## 👥 Authors <a name="Salman Ahmad Khan"></a>
+## 👥 Authors <a name="Muhammad Amran Khan"></a>
 
-> Mention all of the collaborators of this project.
+> 
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/fpsapc/HelloMicroverseProject)
-- Twitter: [@twitterhandle](https://twitter.com/salman-ahmadkhan1987)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/salman-ahmad1987 )
+- GitHub: [@githubhandle](https://github.com/Mike111222/Hello_Microverse_Project)
+- Twitter: [@twitterhandle](https://twitter.com/engr_imrankhan1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Mike111222 )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,11 +122,10 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+>This features I will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[css_styles]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +135,7 @@ Example commands:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues/), please.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,9 +143,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+
+If you like this project, please reach out to me so that I can make it more useful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,9 +153,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+
+I would like to thank my dear friend Salman Ahmad Khan.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,8 +163,7 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
+> 
 - **[Question_1]**
 
   - [Answer_1]
